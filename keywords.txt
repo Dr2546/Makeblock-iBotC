@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For iBotX library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+iBotC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+motor	KEYWORD2
+sensor0	KEYWORD2
+sensor1	KEYWORD2
+sensor2	KEYWORD2
+sensor3	KEYWORD2
+button	KEYWORD2
+waitButton	KEYWORD2
+readColor	KEYWORD2
+readRed	KEYWORD2
+readGreen	KEYWORD2
+readBlue	KEYWORD2
+ultraSonic	KEYWORD2
+led	KEYWORD2
+buzzer	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+iBotC.h	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
